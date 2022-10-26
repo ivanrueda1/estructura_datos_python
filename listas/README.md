@@ -18,4 +18,3 @@ ejemplo una lista puede estar compuesta por cadenas de texto, por numeros entero
 |3|345|
 |4|99|
 
-- Los elementos de una lista empiezan por la posición 0.
